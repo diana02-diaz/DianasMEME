@@ -1,2 +1,0 @@
-# DianasMEME
-Created with CodeSandbox
